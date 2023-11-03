@@ -20,7 +20,6 @@ tqd = caja.loc[15, 'Unnamed: 15']
 tds = caja.loc[14, 'Unnamed: 15']
 tgn = caja.loc[16, 'Unnamed: 15']
 
-
 #SEGUNDO PASO (completar los datos)
 
 os.chdir('Z:\excel\PLANILLAS DE FACTURACION DE COMBUSTIBLES\\'+año)
