@@ -1,4 +1,4 @@
-# Atalaya
+# Python Automatization
 /ENG/
 These are Python programs that managed to automate daily tasks in a company, reducing the error rate to zero and also generating a time gain of 45 minutes per day.
 These programs were written after completing my first Python specialization at the University of Michigan. They are simple yet effective, as they were able to automate daily tasks in a company, reducing the error rate to zero and generating a time gain of 45 minutes per day. They work by extracting data from text documents and Excel spreadsheets to perform computations and complete other Excel documents, including creating a new Excel document daily.
